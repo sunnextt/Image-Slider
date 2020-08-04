@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "src": "https://i.imgur.com/tW3e23Gh.jpg",
+    "title": "parrot",
+    "description": "a colorful parrot"
+  },
+  {
+    "id": 2,
+    "src": "https://i.imgur.com/XWTievSh.jpg",
+    "title": "tree",
+    "description": "tree in the midst of a grassland"
+  },
+  {
+    "id": 3,
+    "src": "https://i.imgur.com/x6ahJZQh.jpg",
+    "title": "butterfly",
+    "description": "butterfly sucking nectar"
+  },
+  {
+    "id": 4,
+    "src": "https://i.imgur.com/Cq8iogph.jpg",
+    "title": "grazing land",
+    "description": "open grazing land"
+  },
+  {
+    "id": 5,
+    "src": "https://i.imgur.com/OiBBgX9h.jpg",
+    "title": "shrub",
+    "description": "yellow slim flowers"
+  },
+  {
+    "id": 6,
+    "src": "https://i.imgur.com/cIzCPQMh.jpg",
+    "title": "mountains",
+    "description": "mountain lands"
+  },
+  {
+    "id": 7,
+    "src": "https://i.imgur.com/m6SSoMqh.jpg",
+    "title": "sea bank",
+    "description": "sea bank from a cliff view"
+  },
+  {
+    "id": 8,
+    "src": "https://i.imgur.com/zLPRlzih.jpg",
+    "title": "red flowers",
+    "description": "red rose-like flowers"
+  },
+  {
+    "id": 9,
+    "src": "https://i.imgur.com/Lz69WZVh.jpg",
+    "title": "bridge",
+    "description": "man on a bridge"
+  }
+]
